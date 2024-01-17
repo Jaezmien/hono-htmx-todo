@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"target": "es2015",
+		"moduleResolution": "nodenext",
+		"module": "nodenext",
+
+		"jsx": "react-jsx",
+		"jsxImportSource": "hono/jsx",
+
+		"outDir": "dist",
+		"rootDir": "src"
+	}
+}
